@@ -6,6 +6,10 @@ In this challenge, you'll create a simple calculator that can perform basic arit
 ## Difficulty
 Easy (Beginner)
 
+
+## Point value:
+3
+
 ## Checklist
 - [ ] Create a variable to store the result.
 - [ ] Get user input for two numbers and an operator (+, -, *, or /).
